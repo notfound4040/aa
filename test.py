@@ -1,3 +1,3 @@
 #!/usr/bin/python
-print("hello word")
-print("hehe")
+print("雷一恒我是你爹")
+print("雷一恒我是你爹")
